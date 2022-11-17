@@ -1,0 +1,10 @@
+[package]
+name = "env-manager"
+author = "Jaroslaw Grishunin"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+console = "0.15.2"
+dialoguer = "0.10.2"
+
