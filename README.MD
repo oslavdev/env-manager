@@ -1,4 +1,4 @@
-# ENV MANAGER
+# ENV MANAGER 🚧 WIP
 
 This is a simple env manager written on Rust. 
 
@@ -8,7 +8,7 @@ It allows you switch between several `.env` files.
 
 ## Install
 
-WIP
+...
 
 ## Switch
 
